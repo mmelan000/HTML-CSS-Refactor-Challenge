@@ -53,7 +53,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+#hero {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -95,7 +95,7 @@ p {
     height: 300px;
     background-color: #0072bb;
 }
-/* Consolidated reduntant code for Search engine optimizaation, online reputation management, and social media marketing into services. */
+/* Consolidated reduntant code for Search engine optimization, online reputation management, and social media marketing into services. */
 
 .benefits {
     margin-right: 20px;
@@ -134,6 +134,6 @@ p {
     /* Added black color code to compensate. */
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }
