@@ -1,7 +1,10 @@
 
-# Challenge-01-HTML-CSS-and-GIT-Code-Refactor
+# HTML-CSS-Code-Refactor
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)   
 
-The objective of this assignment is to refactor this website's HTML and CSS to meet the User Story and Acceptance Criteria as follows:
+## Description  
+
+The objective of this challenge is to refactor this website's HTML and CSS to meet the User Story and Acceptance Criteria as follows:
 
 **User Story**
 ```
@@ -25,28 +28,39 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+## Table of Contents  
+1. [Description](#description)  
+2. [Optimizations](#optimizations)
+3. [Contributing](#contributing)  
+4. [Questions](#questions)  
+5. [License](#license)
 
-## Authors
+## Deployment
 
-- [@Michael Melanson](https://github.com/mmelan000)
+[Deployed Website](https://mmelan000.github.io/HTML-CSS-Refactor-Challenge/)
 
----
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/FxM6Zbm/Horiseon-Screenshot.jpg)
-
+![App Screenshot](./assets/images/SS1.png)
 
 ## Optimizations
 
-Refactored redundant CSS code.
-Improved HTML semantics.
-Adjusted alt tags to improve accessibility.
-Modified website title from "website" to company name.
-Adjusted CSS to apply classes and IDs were applicable according to standards.
-## Deployment
+- Refactored redundant CSS code.
+- Improved HTML semantics.
+- Adjusted alt tags to improve accessibility.
+- Modified website title from "website" to company name.
+- Adjusted CSS to apply classes and IDs were applicable according to standards.
 
-https://mmelan000.github.io/Challenge-01-HTML-CSS-and-GIT-Code-Refactor/
+## Contributing  
 
-```
+Follow best practices for naming conventions, indentation, quality comments, etc.  
+
+## Questions  
+
+If you have any questions, please reach out to me either on Github or by Email.
+  - **Github:** [mmelan000](https://github.com/mmelan000)
+  - **Email:** [m.melanson000@gmail.com](mailto:m.melanson000@gmail.com)
+
+## License  
+
+- [MIT](https://opensource.org/licenses/MIT)
+
 
